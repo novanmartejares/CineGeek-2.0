@@ -50,16 +50,16 @@ const SiteFooter = () => {
       <div className="container flex h-24 items-center gap-2 px-8">
         <Icons.play className="hidden h-6 w-6 md:block" />
         <p className="text-center text-xs leading-loose sm:text-sm md:text-left">
-            Designed by alan_cyril .{" "} 
+            Made with 🧡 by Alan_Cyril | All Rights Reserved |  CineGeek does not host any files, it only links to 3rd party services. Legal issues should be taken up with the file hosts and providers. CineGeek is not responsible for any media files shown by the video providers.
           <a
             href={siteConfig.links.twitter}
             target="_blank"
             rel="noreferrer"
             className="font-medium underline underline-offset-4"
           >
-            {siteConfig.author}
+            
           </a>
-          . The source code is available on{" "}
+          
           <a
             href={siteConfig.links.github}
             target="_blank"
