@@ -11,7 +11,7 @@ export type SiteConfig = typeof siteConfig;
 export const siteConfig = {
   name: env.NEXT_PUBLIC_SITE_NAME,
   author: env.NEXT_PUBLIC_SITE_NAME,
-  slogan: 'Watch TV Shows Online, Watch Movies Online.',
+  slogan: 'Watch TV Shows & Movies Online.',
   description:
     'Watch movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.',
   keywords: [
