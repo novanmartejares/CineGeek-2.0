@@ -50,7 +50,7 @@ const SiteFooter = () => {
       <div className="container flex h-24 items-center gap-2 px-8">
         <Icons.play className="hidden h-6 w-6 md:block" />
         <p className="text-center text-xs leading-loose sm:text-sm md:text-left">
-          Built by{" "}
+          Designed by alan_cyril {" "}
           <a
             href={siteConfig.links.twitter}
             target="_blank"
